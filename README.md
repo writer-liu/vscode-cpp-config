@@ -20,7 +20,7 @@
 
    - 右键此电脑 -> 属性 -> 高级系统设置 -> 环境变量
    - 在系统变量中找到Path，双击，点击新建，添加`mingw`的`bin`目录，如：`D:\myDate\mingw64\bin`
-   - 或运行[add_mingw_to_path.bat](https://github.com/writer-liu/vscode-cpp-config/releases/download/conifg/add_mingw_to_path.bat)
+   - 或运行[add_mingw_to_path.bat](https://github.com/writer-liu/vscode-cpp-config/releases/download/config/add_mingw_to_path.bat)
 
    ![add_mingw_to_path](doc/image5.png)
 
