@@ -3,8 +3,9 @@
 ## 配置方法
 
 1. 安装[vscode](https://code.visualstudio.com/Download)
+    ![安装vscode](doc/image.png)
 2. 安装简体中文语言包
-   ![安装简体中文语言包](doc/image-3.png)
+   ![安装简体中文语言包](doc/image3.png)
 3. 安装C/C++插件
    ![alt text](doc/zoomit.png)
 4. 安装[mingw](https://github.com/writer-liu/vscode-cpp-config/releases/download/vscode_1/x86_64-14.2.0-release-win32-seh-ucrt-rt_v12-rev2.7z)
@@ -102,4 +103,4 @@
    }
    ```
 7. 重启`vscode`，打开一个`.cpp`文件，按`F5`，选择`C/C++: g++.exe 构建和调试活动文件`，即可运行调试
-    ![alt text](doc/image-4.png)
+    ![alt text](doc/image4.png)
