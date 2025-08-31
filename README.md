@@ -2,7 +2,7 @@
 
 ## 配置方法
 
-1. 安装[vscode](https://code.visualstudio.com/Download)
+1. 安装`vscode`[官网](https://code.visualstudio.com/Download)或[github下载](https://github.com/writer-liu/vscode-cpp-config/releases/download/config-v1/VSCodeUserSetup-x64-1.103.2.exe)
 
     ![安装vscode](doc/image.png)
 
@@ -14,13 +14,13 @@
 
    ![alt text](doc/zoomit.png)
 
-4. 安装[mingw](https://github.com/writer-liu/vscode-cpp-config/releases/download/vscode_1/x86_64-14.2.0-release-win32-seh-ucrt-rt_v12-rev2.7z)
+4. 安装[mingw](https://github.com/writer-liu/vscode-cpp-config/releases/download/config/x86_64-14.2.0-release-win32-seh-ucrt-rt_v12-rev2.7z)
 
 5. 配置系统环境
 
    - 右键此电脑 -> 属性 -> 高级系统设置 -> 环境变量
    - 在系统变量中找到Path，双击，点击新建，添加`mingw`的`bin`目录，如：`D:\myDate\mingw64\bin`
-   - 或运行[add_mingw_to_path.bat](https://github.com/writer-liu/vscode-cpp-config/releases/download/vscode_1/add_mingw_to_path.bat)
+   - 或运行[add_mingw_to_path.bat](https://github.com/writer-liu/vscode-cpp-config/releases/download/conifg/add_mingw_to_path.bat)
 
    ![add_mingw_to_path](doc/image5.png)
 
