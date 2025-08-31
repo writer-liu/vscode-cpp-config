@@ -22,7 +22,7 @@
    - 在系统变量中找到Path，双击，点击新建，添加`mingw`的`bin`目录，如：`D:\myDate\mingw64\bin`
    - 或运行[add_mingw_to_path.bat](https://github.com/writer-liu/vscode-cpp-config/releases/download/vscode_1/add_mingw_to_path.bat)
 
-   ![add_mingw_to_path](image5.png)
+   ![add_mingw_to_path](doc/image5.png)
 
 6. 配置.vscode 文件夹  **下载了`code runner`插件，可直接运行`.cpp`，无需配置**
 
